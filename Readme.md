@@ -98,13 +98,6 @@ http://localhost:5173
 
 ---
 
-## Connect
-
-- **GitHub**: [https://github.com/Ardhaya-Johari](https://github.com/Ardhaya-Johari)  
-- **LinkedIn**: [https://www.linkedin.com/in/ardhaya-johari-819275321/](https://www.linkedin.com/in/ardhaya-johari-819275321/)
-
----
-
 ## Contributing
 
 1. Fork the repository  
